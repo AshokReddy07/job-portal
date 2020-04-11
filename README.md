@@ -1,4 +1,4 @@
 # INT301-Assignment
 a job portal. only table in the backend which matches the job with the skill set. On the webpage, user will enter the skill set, it will match with the table and refers you the job matching to it.
-# Job portal
-![](INT301-Assigenment/Screenshot9.png)
+# Job portal(
+![](INT301-Assigenment/Screenshot(9).png)
